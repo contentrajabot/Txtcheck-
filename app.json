@@ -2,7 +2,7 @@
 {
     "name": "Allinonebot",
     "description": "ALLINONEBOT",
-    "repository": "https://github.com/",
+    "repository": "https://github.com/kd2929/rasi-extract",
     "keywords": [
         "telegram bot",
         "pyrogram"
