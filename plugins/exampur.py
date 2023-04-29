@@ -1,7 +1,3 @@
-
-
-
-
 @bot.on_message(filters.command(["exampur"]) & ~filters.edited)
 async def account_login(bot: Client, m: Message):
     global cancel
